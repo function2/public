@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Simple (SLOW) program to calculate the SHA-256.
-# Michael Seyfert <michael@codesand.org>
-# codesand.org
+# Copyright 2015, Michael Seyfert <michael@codesand.org>
+# http://codesand.org
 
 import sys, struct
 
