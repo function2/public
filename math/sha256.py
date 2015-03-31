@@ -2,6 +2,7 @@
 # Simple (SLOW) program to calculate the SHA-256.
 # Copyright 2015, Michael Seyfert <michael@codesand.org>
 # http://codesand.org
+# License GPL v2
 
 import sys, struct
 
